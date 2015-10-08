@@ -1,13 +1,8 @@
-import static java.nio.file.StandardCopyOption.*
-import java.nio.file.Path
-import java.nio.file.Paths
-import java.nio.file.Files
-
 /**
  * Downy is a Groovy script that one can use to download 100s of files.
  *
  *      TODO: make downloading an asynchronous process
- *      
+ *
  * @author Jatinder Singh on 07, October 2015
  */
 class Downy {
